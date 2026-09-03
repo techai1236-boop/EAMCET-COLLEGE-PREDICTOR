@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": "usr_1788424217146_ef36c6f4",
+      "fullName": "Rahul Kumar",
+      "hallTicket": "ABC123",
+      "rank": 124972,
+      "category": "BC_B",
+      "gender": "BOYS",
+      "mobile": "9876543210",
+      "passwordHash": "90a5d4a69ba8afd12614fa773c58f153d81440afc3b9cbd5141fc2bef4ef5200e021c7c7d3755eaad01b970b01e79ed4a47ede14c54dff79175ebc326cda77f5",
+      "salt": "68b8a7cea88df16ebcdfd4185a5fe31b",
+      "createdAt": "2026-09-03T08:30:17.146Z"
+    },
+    {
+      "id": "usr_1788424217636_99d8514c",
+      "fullName": "Sneha Reddy",
+      "hallTicket": "DEF456",
+      "rank": 42150,
+      "category": "OC",
+      "gender": "GIRLS",
+      "mobile": "9123456780",
+      "passwordHash": "0d96f77dd1eb0ff7d5fba54e418d5d50495c683c111891eb2951e1096c84270d91cc3af1658d0fd16a00fdcf9883180540ee105dea7fcaae4c69bf92406531ba",
+      "salt": "dfc012b9cf86d1a106ba3ca0dcd39b0b",
+      "createdAt": "2026-09-03T08:30:17.636Z"
+    },
+    {
+      "id": "usr_1788425213887_2420a1d6",
+      "fullName": "Kiran Rao",
+      "hallTicket": "HT999888",
+      "rank": 35210,
+      "category": "BC_D",
+      "gender": "BOYS",
+      "mobile": "9988776655",
+      "passwordHash": "2686ac8ec3684fccd12f0a1a08d20eff366b47943a2e88d17c6d9fd9f89541defe0e388b039d341bb2da6d300acfe23f4488f1420118a1f5ac6c71f7ed2d8e31",
+      "salt": "6a2ebac3f7362ddebb4c1fcd984726d2",
+      "createdAt": "2026-09-03T08:46:53.887Z"
+    },
+    {
+      "id": "usr_1788425222893_189bf8d4",
+      "fullName": "Malicious Student",
+      "hallTicket": "HACK99",
+      "rank": 1000,
+      "category": "OC",
+      "gender": "BOYS",
+      "mobile": "9999900000",
+      "passwordHash": "78ef22e5b78a8248bd6ef1493482314959af4da7948720cb4ed4b4c16dd295eecd7b78cf95861d6db6b2309ffe29702e7ff5d37a63f82902efb2a902c6360644",
+      "salt": "319e793086b3a7c0c93bf4decfe4d2cd",
+      "createdAt": "2026-09-03T08:47:02.893Z"
+    },
+    {
+      "id": "usr_1788425555286_7c9d06c8",
+      "fullName": "Sajeed",
+      "hallTicket": "25K81A6637",
+      "rank": 47840,
+      "category": "BC_B",
+      "gender": "BOYS",
+      "mobile": "6305665648",
+      "passwordHash": "44541bedbde8d2662598ff30e14b794aae99869a0dcb611c5a7ca67c684acf85562edca95bd2d7205a8bc820e569770567800f8c374aef4b90492efe8b239869",
+      "salt": "2a7fcda3ffb18d580cff62768d9e36dc",
+      "createdAt": "2026-09-03T08:52:35.286Z"
+    }
+  ],
+  "sessions": [
+    {
+      "token": "834b4b49b27f8c81e7d83dc6158545046392b17f549d7057cc28f0ecaee7cf4e",
+      "userId": "usr_1788424217146_ef36c6f4",
+      "createdAt": "2026-09-03T08:30:17.562Z",
+      "expiresAt": "2026-09-10T08:30:17.562Z"
+    },
+    {
+      "token": "14c19b44e3cb3614300ae733ce89e18f124c336c4a6083c4bf2af20df2c88dfc",
+      "userId": "usr_1788424217636_99d8514c",
+      "createdAt": "2026-09-03T08:30:17.706Z",
+      "expiresAt": "2026-09-10T08:30:17.706Z"
+    },
+    {
+      "token": "93ee6533d72fa8cb01d126bfb22ed088d7f8fae995001d8b178bd6200f15a58a",
+      "userId": "adm_1788425195147_b2a26ee4",
+      "role": "admin",
+      "createdAt": "2026-09-03T08:46:36.678Z",
+      "expiresAt": "2026-09-10T08:46:36.677Z"
+    },
+    {
+      "token": "9ee1fe6c77a359d651687699ca7411f79b3fe31c17e60081c3a52cc015ac50d6",
+      "userId": "adm_1788425195147_b2a26ee4",
+      "role": "admin",
+      "createdAt": "2026-09-03T08:46:41.965Z",
+      "expiresAt": "2026-09-10T08:46:41.965Z"
+    },
+    {
+      "token": "452a9c7472954f42c9b36d3a56cfea4213228a5a317efd561ae58afbb72052ae",
+      "userId": "usr_1788425213887_2420a1d6",
+      "role": "student",
+      "createdAt": "2026-09-03T08:46:53.954Z",
+      "expiresAt": "2026-09-10T08:46:53.954Z"
+    },
+    {
+      "token": "fa387b6df23afce853f2c3a9431a59669501c0d92f819f6bcdada811e3a4a65e",
+      "userId": "adm_1788425195147_b2a26ee4",
+      "role": "admin",
+      "createdAt": "2026-09-03T08:46:57.462Z",
+      "expiresAt": "2026-09-10T08:46:57.462Z"
+    },
+    {
+      "token": "c9c3d42f6ef82616fd92f97755e3ebe4fb6862a7e1dd68bea43276b928fe36cc",
+      "userId": "usr_1788425222893_189bf8d4",
+      "role": "student",
+      "createdAt": "2026-09-03T08:47:02.963Z",
+      "expiresAt": "2026-09-10T08:47:02.963Z"
+    },
+    {
+      "token": "5fc62fb641c656387930263913b5534895725fdb75285fa7ca393602b9f8e8ea",
+      "userId": "usr_1788425555286_7c9d06c8",
+      "role": "student",
+      "createdAt": "2026-09-03T08:52:46.151Z",
+      "expiresAt": "2026-09-10T08:52:46.151Z"
+    },
+    {
+      "token": "fd40c9a700d27c4537c8beee4227c8cb3b3e8657efb3f0abc8461fb72863c14c",
+      "userId": "usr_1788425555286_7c9d06c8",
+      "role": "student",
+      "createdAt": "2026-09-03T08:55:31.976Z",
+      "expiresAt": "2026-09-10T08:55:31.976Z"
+    },
+    {
+      "token": "a6a477cf9b01cb4c00529c8edbe2d5711671b4e58c64be42f5bb4ddb09da3687",
+      "userId": "usr_1788425213887_2420a1d6",
+      "role": "student",
+      "createdAt": "2026-09-03T08:55:50.062Z",
+      "expiresAt": "2026-09-10T08:55:50.062Z"
+    },
+    {
+      "token": "5f6e0d24e2fc45b2b1e33fbbe12c229851acbf6116767a89ff2e26fd4cd31438",
+      "userId": "usr_1788425213887_2420a1d6",
+      "role": "student",
+      "createdAt": "2026-09-03T08:58:18.989Z",
+      "expiresAt": "2026-09-10T08:58:18.989Z"
+    }
+  ],
+  "counselling": {
+    "usr_1788424217146_ef36c6f4": [
+      {
+        "id": "rec_cbit_csm",
+        "record": {
+          "instCode": "CBIT",
+          "instituteName": "Chaitanya Bharathi Institute of Technology",
+          "branchCode": "CSM"
+        },
+        "closingRank": 2400,
+        "studentRank": 124972,
+        "chance": "VERY_LOW",
+        "priority": 1,
+        "addedAt": "2026-09-03T08:00:00.000Z"
+      }
+    ],
+    "usr_1788424217636_99d8514c": [],
+    "usr_1788425213887_2420a1d6": [
+      {
+        "id": "rec_1",
+        "priority": 1,
+        "closingRank": 32000,
+        "studentRank": 35210,
+        "chance": "Low"
+      }
+    ],
+    "usr_1788425222893_189bf8d4": [],
+    "usr_1788425555286_7c9d06c8": []
+  },
+  "admins": [
+    {
+      "id": "adm_1788425195147_b2a26ee4",
+      "username": "admin",
+      "passwordHash": "b67702774547a688dc9cf90e14593ef4a7a52a70e81f363e2a706c1105975d9843a9533471c24f8286230453340273a8d3b3e0886e68f5a6f531a71fb1f3a4b8",
+      "salt": "128c1f91460718e9adbe1ba9a7daa745",
+      "createdAt": "2026-09-03T08:46:35.147Z"
+    },
+    {
+      "id": "adm_1788425708956_61b5e8ea",
+      "username": "admincode",
+      "passwordHash": "d4dc4b4b2a81233cc80a80b243b4c001ea0b3ffcd40a562de3cb2e121e98b9487c5d80546a8322ec968976acb8d1690149c6a9152f59bac030237da2bf4cf8ae",
+      "salt": "c29fde4486e0f431e9abb857fe2d60c2",
+      "createdAt": "2026-09-03T08:55:08.957Z"
+    }
+  ]
+}

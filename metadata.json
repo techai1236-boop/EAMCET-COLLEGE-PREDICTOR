@@ -1,0 +1,6 @@
+{
+  "name": "TG EAPCET / EAMCET College Predictor",
+  "description": "Predict engineering college cutoffs based on previous-year closing rank data, filter by category, branch and gender, and create your personalized counselling preference list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
