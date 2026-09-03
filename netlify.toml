@@ -1,1 +1,1 @@
-
+[[redirects]] from = "/api/*" to = "your-backend-api-url/:splat" status = 200 force = true. Remember to replace "your-backend-api-url"
